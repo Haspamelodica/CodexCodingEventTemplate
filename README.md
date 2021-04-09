@@ -211,7 +211,7 @@ A weighted sum of the move over red count, move over black count, and look count
 Moves over red cost 30, moves over black cost 400, and looks cost 30.
 
 ### Scoreboard
-The scoreboard can be watched live in the BBB room.
+The current scoreboard can be viewed under http://139.59.215.82:1338/.
 At the end of each day the final scoreboard is posted to the Zulip channel as a CSV file.
 
 #### Scores
